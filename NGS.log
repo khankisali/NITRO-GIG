@@ -1,5 +1,4 @@
-[
-    "<input type=\"submit\" value=\"ddok\"/>",
+["<input type=\"submit\" value=\"ddok\"/>",
     "value=\"goodit\"/>",
     "-rw-r--r--",
     "TheAlmightyZeus",
@@ -44,14 +43,13 @@
     "anonymousfox",
     "name=\"uploader\" id=\"uploader\">",
     "Uname:",
-    "<input type=password name=pass",
+    "<input type=\"password\" name=\"pass\"",
     "<input name='postpass' type='password'",
     "<input name=postpass type=password",
     "input type=password name=pass><input type=submit value='>>'>",
     ">Password<br><input",
     "<pre align=center><form method=post>Password<br><input type=password name=pass",
     "input type=\"submit\" value=\">>\"",
-    "<input type=submit name='watching'",
+    "<input type=\"submit\" name='watching'",
     "type=\"file\"/><input type=\"submit\"",
-    "<title>Leaf PHPMailer</title>"
-]
+    "<title>Leaf PHPMailer</title>"]

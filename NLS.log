@@ -1,6 +1,7 @@
 [
     "<form method=\"POST\" enctype=\"multipart/form-data\"> <input type=\"file\" name=\"file\"> <input type=\"submit\" value=\"up_it\"> </form>",
     "<input type=\"submit\" value=\"ddok\"/>",
+    "Select image to upload:",
     "value=\"goodit\"/>",
     "-rw-r--r--",
     "TheAlmightyZeus",

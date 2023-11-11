@@ -121,4 +121,5 @@
       "required><input type=submit name='watching' value='submit' style=\"",
       "<form method=post>Password<br><input type=password name=pass style=\"",
       "<input type=\"file\" name=\"upfile\"> <input type=\"submit\" value=\"Upload\">",
-      "file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)"]
+      "file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)",
+      "<span>Upload file:</span> <font color='green'>(Writeable)</font>"]

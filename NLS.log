@@ -45,7 +45,6 @@
     "anonymousfox",
     "name=\"uploader\" id=\"uploader\">",
     "Uname:",
-    "<input type=\"password\" name=\"pass\"",
     "<input name='postpass' type='password'",
     "<input name=postpass type=password",
     "input type=password name=pass><input type=submit value='>>'>",

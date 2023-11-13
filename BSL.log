@@ -33,6 +33,7 @@
     "/wp-content/plugins/envato-market/inc/class-envato-market-api.php",
     "/wp-content/upgrade-functions.php",
     "/wp-2019.php",
+    "class.api.php",
     "/1.php",
     "/wp-admin/images/install.php",
     "/wp-content/plugins/revslider/includes/external/page/index.php",

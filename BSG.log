@@ -142,4 +142,5 @@
     "/wp-includes/js/",
     "/wp-admin/css/colors/blue/",
     "/up/.well-known/"
+    "/wp-content/plugins/apikey/"
 ]

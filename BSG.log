@@ -141,6 +141,6 @@
     "/admin/upload/",
     "/wp-includes/js/",
     "/wp-admin/css/colors/blue/",
-    "/up/.well-known/"
+    "/up/.well-known/",
     "/wp-content/plugins/apikey/"
 ]

@@ -1,7 +1,7 @@
 [
     "/xt/index.php",
     "/xt.php",
-    "/chosen.php"
+    "/chosen.php",
     "/wp-class.php",
     "/wp-admin/network/upfile.php",
     "/wp-content/plugins/fix/up.php",

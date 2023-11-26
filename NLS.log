@@ -6,6 +6,7 @@
     "value=\"goodit\"/>",
     "TrenggalekTeam",
     "<title>000</title>",
+    "input type=\"text\" readonly=\"1\" id=\"upload_visible\""
     "-rw-r--r--",
     "value='Nyanpasu!!!'",
     "TheAlmightyZeus",

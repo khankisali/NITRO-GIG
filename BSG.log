@@ -4,6 +4,7 @@
     "/.well-known/acme-challenge/",
     "/vendor/phpunit/phpunit/src/Util/PHP/",
     "/wp-content/uploads/",
+    "/wp-content/themes/tflow/",
     "/wp-admin/",
     "/wordpress/wp-admin/includes",
     "/wp-admin/js/",
